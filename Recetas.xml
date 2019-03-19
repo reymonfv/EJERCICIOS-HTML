@@ -22,10 +22,12 @@
     </receta>
     <receta>
         <nombre_receta>Dip de limón</nombre_receta>
-        <ingredientes>    El zumo de 4 limones grandes.
+        <ingredientes>    
+            El zumo de 4 limones grandes.
             4 cdas. de miel.
             250 g de yogurt griego.
-            Rayadura de una cáscara de limón.</ingredientes>
+            Rayadura de una cáscara de limón.
+        </ingredientes>
         <preparacion>
 
         </preparacion>
